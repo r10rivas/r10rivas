@@ -12,11 +12,10 @@
 
 <h2>More about me</h2>
 
-- 📝 I have written some articles in [Medium](https://medium.com/@r10rivas) 
- <!--
-  - 👨‍💻 All of my projects are available at [hola](hola)
-  - 👀 See my [Curriculum Vitae](https://drive.google.com/file/d/1mr_yoVcBn6QolFWAOXSJzxQYvO7ShjNu/view?ths=true) to get more info.
--->
+- 📝 I have written some articles in [Medium](https://medium.com/@r10rivas)
+- 👀 See my resumen:
+[:uk: English](https://drive.google.com/file/d/1A6Z5PoNPsOsQ-GxOEkt_VL0nnpEZFIpX/view?usp=sharing) | [:es: Spanish](https://drive.google.com/file/d/11_5lsH6ie0APeU1Qv7M03Bzc1gtvzyio/view?usp=sharing)
+- 👨‍💻 My public projects are available at [Portfolio under construction](https://roberto.rivas.surge.sh/)
 
 
 <h2>Technologies used</h2>
