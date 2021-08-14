@@ -1,60 +1,48 @@
-<h1 align="center">Hi 👋, I'm Roberto 👨‍💻</h1>
-
-</br>
-
-<p>
-  A passionate about web development from Caracas, Venezuela, interested in principles that allow the creation of robust, scalable and maintainable software, lover of good practices.
-</p>
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=r10rivas" alt="r10rivas" /> </p> -->
+[![Header](https://raw.githubusercontent.com/r10rivas/r10rivas/master/assets/images/banner.png "Header")](https://r10rivas.netlify.app/)
 
 
+## Hi <img src="assets/gifs/wave.gif" width="30px">, I'm Roberto 👨‍💻
 
-<h2>More about me</h2>
+A passionate about web development from Caracas, Venezuela, interested in principles that allow the creation of robust, scalable and maintainable software, lover of good practices.
+
+### More about me
 
 - 📝 I have written some articles in [Medium](https://medium.com/@r10rivas)
 - 👀 See my resumen:
 [:uk: English](https://drive.google.com/file/d/1A6Z5PoNPsOsQ-GxOEkt_VL0nnpEZFIpX/view?usp=sharing) | [:es: Spanish](https://drive.google.com/file/d/11_5lsH6ie0APeU1Qv7M03Bzc1gtvzyio/view?usp=sharing)
 - 👨‍💻 My public projects are available at [Portfolio under construction](https://r10rivas.netlify.app/)
 
+### 🔧 Technologies used
 
-<h2>Technologies used</h2>
 <p align="left">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="25" height="25"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="25" height="25"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="25" height="25"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" alt="rails" width="25" height="25"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="25" height="25"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="25" height="25"/>  
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-  
+  <img alt="Vue JS" height="35" src="assets/icons/vue-js.svg" width="35"/>
+  <img alt="React JS" height="35" src="assets/icons/react-js.svg" width="35"/>
+  <img alt="CSS 3" height="35" src="assets/icons/css-3.svg" width="35"/>
+  <img alt="Docker" height="35" src="assets/icons/docker.svg" width="35"/>
+  <img alt="HTML-5" height="35" src="assets/icons/html-5.svg" width="35"/>
+  <img alt="JavaScript" height="35" src="assets/icons/javascript.svg" width="35"/>
+  <img alt="MySQL" height="35" src="assets/icons/mysql.svg" width="35"/>
+  <img alt="PostgreSQL" height="35" src="assets/icons/postgresql.svg" width="35"/>
+  <img alt="Rails" height="35" src="assets/icons/rails.svg" width="35"/>
+  <img alt="Ruby" height="35" src="assets/icons/ruby.svg" width="35"/>
+  <img alt="Sass" height="35" src="assets/icons/sass.svg" width="35"/>
+  <img alt="Git" height="35" src="assets/icons/git.svg" width="35"/>
 </p>
 
-</br>
+### 🌎 Find me elsewhere
 
-<p align="center">
-  <a href="https://twitter.com/r10rivas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="r10rivas" height="20" width="20" /></a>
-  <a href="https://linkedin.com/in/r10rivas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="r10rivas" height="20" width="20" /></a>
-  <a href="https://instagram.com/r10rivas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="r10rivas" height="20" width="20" /></a>
+<p align="left">
+  <a href="https://twitter.com/r10rivas" target="blank">
+    <img align="center" alt="r10rivas" height="35" src="assets/icons/twitter.svg" width="35"/>
+  </a>
+  <a href="https://linkedin.com/in/r10rivas" target="blank">
+    <img align="center" alt="r10rivas" height="35" src="assets/icons/linkedin.svg" width="35"/>
+  </a>
+  <a href="https://instagram.com/r10rivas" target="blank">
+    <img align="center" alt="r10rivas" height="35" src="assets/icons/instagram.svg" width="35"/>
+  </a>
 </p>
 
+### &#x1f4c8; My GitHub Stats
 
-<!--
-**r10rivas/r10rivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r10rivas&hide=html,css&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
