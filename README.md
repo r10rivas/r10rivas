@@ -9,7 +9,7 @@ A passionate about web development from Caracas, Venezuela, interested in princi
 - 📝 I have written some articles in [Medium](https://medium.com/@r10rivas)
 - 👀 See my resumen:
 [:uk: English](https://drive.google.com/file/d/1A6Z5PoNPsOsQ-GxOEkt_VL0nnpEZFIpX/view?usp=sharing) | [:es: Spanish](https://drive.google.com/file/d/11_5lsH6ie0APeU1Qv7M03Bzc1gtvzyio/view?usp=sharing)
-- 👨‍💻 My public projects are available at [Portfolio](https://r10rivas.netlify.app/)
+- 👨‍💻 My public projects are available at [Portfolio](https://robertorivas.dev)
 
 ### 🔧 Technologies used
 
